@@ -239,7 +239,7 @@ int main(int argc, char* argv[]) {
             break;
         
         case EXECUTE_TABLE_FULL:
-            printf("Error; Table full.\n");
+            printf("Error: Table full.\n");
             break;
         }
     }
